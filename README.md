@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=0WgK4WeGG2k
 
 https://github.com/topjohnwu/Magisk/blob/master/docs/install.md
 
+https://samfw.com/firmware/SM-G780G
+
 step1: unblock oem
 step2: unblock bootloader
 step3: mod AP file via Magisk
